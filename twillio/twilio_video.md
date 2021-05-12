@@ -1,0 +1,2 @@
+<b>Issue</b>: When work with twilio video (twilio-video.js) maybe we will got the issue: Client is unable to apply a remote media description \
+<b>Solution</b>:  remove webpack plugin Promise: "es6-promise-promise"
