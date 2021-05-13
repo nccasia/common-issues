@@ -7,7 +7,9 @@ How to use App center xamarin ui test
 1. Login at https://appcenter.ms/
 2. Settup in app https://appcenter.ms/ -> overview
 3. Create new Test     
+
     3.1 Create group devices
+
     3.2 Config test
 4. Using NodeJS
     4.1 Run "npm install -g appcenter-cli"
