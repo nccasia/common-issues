@@ -1,5 +1,7 @@
 docs: https://www.apollographql.com/docs/apollo-server/performance/caching/
+
 issue: @cacheControl does not work unless defaultMaxAge is set (read more https://spectrum.chat/apollo/apollo-server/cachecontrol-does-not-work-unless-defaultmaxage-is-set~0e4dc3c5-7cdc-40be-b833-0b2d436d1288)
+
 solution: add plugin "apollo-cache-control" to retrive @cacheControl config from schema (readmore https://github.com/apollographql/apollo-cache-control)
 
 Sample:
